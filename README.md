@@ -28,7 +28,7 @@ usando datos históricos de publicación y diferentes modelos de predicción.
 | `Prediccion_HxH_Modelos_Ensamble.ipynb` | Notebook completo con código, análisis y visualizaciones. |
 | `predicciónregresohxh.py` | Script modular del modelo final. |
 | `tabla_trimestral_modelos_promedio.csv` | Resumen trimestral de probabilidades 2025–2030. |
-| `regresomanga (1).py` | Versiones previas de experimentos y modelos base. |
+| `regresomanga.py` | Versiones previas de experimentos y modelos base. |
 
 ## 🧩 Librerías utilizadas
 
