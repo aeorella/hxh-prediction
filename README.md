@@ -44,5 +44,3 @@ Proyecto personal de portafolio — Ciencia de Datos aplicada a análisis cultur
 
 ---
 
-🧠 *“Incluso los hiatus tienen patrones.”*  
-Proyecto inspirado en la historia y pausas de *Hunter × Hunter*.
